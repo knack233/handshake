@@ -2,3 +2,4 @@
 总线握手场景
 
 si_data 为模拟需要传输的数
+当且仅当ready与vaild信号同时拉高时receive_data才会接收si_data
